@@ -1,0 +1,1 @@
+windeployqt WE.exe --qmldir .
